@@ -5,3 +5,5 @@
 [тобд 5](https://colab.research.google.com/drive/1S5zP8Du4nxAYPIu5NmXdtUmXIx9bY8kg?usp=drive_link)
 
 [тобд 4](https://colab.research.google.com/drive/1aT6AGBB06KI_032I24g3kI8FJ1LgSXAz?usp=drive_link)
+
+[тобд 7](https://colab.research.google.com/drive/1Fo2XM5iGwMx858yCDGIooGGBTYsGB_sU#scrollTo=0v9liJGJVYu_)
