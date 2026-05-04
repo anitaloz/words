@@ -7,3 +7,5 @@
 [тобд 4](https://colab.research.google.com/drive/1aT6AGBB06KI_032I24g3kI8FJ1LgSXAz?usp=drive_link)
 
 [тобд 7](https://colab.research.google.com/drive/1Fo2XM5iGwMx858yCDGIooGGBTYsGB_sU#scrollTo=0v9liJGJVYu_)
+
+https://colab.research.google.com/drive/1EUhvVB1MDdoV2XG4-xWI251A6fjGbgkN?usp=drive_link
